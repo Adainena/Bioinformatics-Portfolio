@@ -86,9 +86,7 @@ bioinformatics-portfolio/
 ```
 
 ## Professional Links
-- 📧 [Professional Email]
-- 🔗 [LinkedIn Profile]
-- 🧬 [Additional Professional Profiles]
+- 📧 
 
 ---
 *This portfolio is actively maintained and updated as new projects and skills are developed.*
