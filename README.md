@@ -4,7 +4,7 @@
 🧬 Former Genetic Technologist with MSc in Genomic Medicine, actively transitioning into Bioinformatics. With experience from Guy's Hospital (Synnovis) and Royal Marsden, I combine hands-on molecular diagnostics expertise with computational skills. Specializing in NGS workflows, variant annotation, and molecular techniques with a focus on clinical applications.
 
 ## Professional Background
-**Most Recent Role**: Genetic Technologist at Synnovis, Guy's Hospital (January 2023 - September 2023)
+**Most Recent Role**: Genetic Technologist at Synnovis, Guy's Hospital (January 2023 - September 2024)
 - NGS data processing and variant annotation
 - Molecular analysis of FLT3, NPM1, EGFR, NRAS, KRAS, and BRAF mutations
 - ISO15189 compliance and QMS maintenance
